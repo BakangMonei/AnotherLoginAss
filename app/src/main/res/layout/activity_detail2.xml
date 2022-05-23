@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/appbackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity2">
+
+    <TextView
+        android:id="@+id/tv_PaintingName"
+        android:layout_marginTop="20dp"
+        android:textSize="25sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Painting Name"
+        android:gravity="center"/>
+
+    <ImageView
+        android:id="@+id/img_PaintingImage"
+        android:layout_width="wrap_content"
+        android:layout_height="340dp"
+        android:layout_gravity="bottom"
+        android:src="@drawable/painting11"/>
+
+     <TextView
+         android:id="@+id/tv_PaintingDescription"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_margin="14dp"
+         android:text="Every good villain needs a proper monologue to
+         show that they mean business. Davy Jones gets one when
+         Will Turner escapes to another ship, sending Jones on a
+         path to claim his lost prize. To spite Will's father B
+         ootstrap Bill, he forces him to watch as the crew begins t
+         o summon the Kraken."
+         android:textSize="18dp"
+         android:fontFamily="cursive"
+         android:textColor="@color/dark_grey"/>
+
+    <TextView
+        android:id="@+id/tv_PaintingPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="14dp"
+        android:text="P23 000"
+        android:textSize="18dp"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540440502243",
+    "project_id": "auth-a65e4",
+    "storage_bucket": "auth-a65e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540440502243:android:e64a7080222d603fa64ad6",
+        "android_client_info": {
+          "package_name": "com.mad.logginass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540440502243-fqbpponblen6cd79r2603k4cllkctjst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lfeji5_jCvCuWSVR80dxKDOjvRrGEbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540440502243-fqbpponblen6cd79r2603k4cllkctjst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
